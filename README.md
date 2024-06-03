@@ -3,7 +3,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
+
+Open the application home page
 ![Screenshot (20)](https://github.com/bhaskar866/Hy-vee-Assesment-Bhaskar-Reddy/assets/75436618/052f8afc-d63e-47e0-b476-89204653bad0)
+Display the results - > click on show more(Intially it will show the country with higest probability)
 ![Screenshot (21)](https://github.com/bhaskar866/Hy-vee-Assesment-Bhaskar-Reddy/assets/75436618/fda14015-7961-4e0a-8185-3c5160fda58d)
 ![Screenshot (22)](https://github.com/bhaskar866/Hy-vee-Assesment-Bhaskar-Reddy/assets/75436618/747631ec-1bc6-4c62-aca1-945e71cddcd4)
 
