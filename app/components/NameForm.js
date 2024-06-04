@@ -64,14 +64,14 @@ export default function NameForm({ onSubmit }) {
   return (
     <FormContainer>
       <Form onSubmit={handleSubmit}>
-        <Title>Guess the Name</Title>
+        <Title>Enter the Name</Title>
         <Input
           type="text"
           value={name}
           onChange={(e) => setName(e.target.value)}
           placeholder="Enter a name"
         />
-        <Button type="submit">Guess</Button>
+        <Button type="submit">submit</Button>
       </Form>
     </FormContainer>
   );
